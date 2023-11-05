@@ -1,0 +1,22 @@
+.quiz__navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 6rem;
+}
+
+.quiz__navbar-links {
+    flex: 1;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.quiz__navbar-links_logo {
+    margin-right: 2rem;
+}
+
+.quiz__navbar-links_logo img{
+    width: 70px;
+    height: 20px; 
+}
